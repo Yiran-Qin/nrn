@@ -1,0 +1,15 @@
+sphinx
+sphinx_rtd_theme
+jupyter
+nbconvert
+recommonmark
+matplotlib
+bokeh
+# do not check import of next line
+ipython
+plotnine
+numpy
+plotly
+nbsphinx
+jinja2
+sphinx-design
